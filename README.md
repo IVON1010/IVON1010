@@ -13,13 +13,6 @@ Welcome to my GitHub profile! I'm a dedicated **Software Engineer** with a focus
 - ⚡ **Fun fact**: I balance my coding hours with morning walks and enjoy reading both fiction and non-fiction.
 
 ---
-
-### 📌 Featured Projects
-
-- **[Zuri Trends](https://github.com/IVON1010/zuri-trends-mall)** - A complete e-commerce platform with wishlist management, product search, and payment integration.
-- **Library Inventory Management System** - A system designed to manage book borrowing, returns, and late penalties, showcasing inventory and backend logic skills.
-- **Catalogue Showcase** - A front-end React component that highlights my design skills with a visually appealing layout for product presentations.
-
 Feel free to explore my repositories, and let’s connect if you have a project or opportunity in mind!
 
 Thanks for stopping by!
