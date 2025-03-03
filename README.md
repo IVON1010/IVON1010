@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a dedicated **Software Engineer** with a focus
 - 💬 **Ask me about**: Backend development with Python, Flask,React, or my journey from business accounting to software engineering!
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/YvonneNdungu)
 - 😄 **Pronouns**: She/Her
-- ⚡ **Fun fact**: I balance my coding hours with morning walks and enjoy reading both fiction and non-fiction.
+- ⚡ **Fun fact**: I balance my coding hours with morning runs and enjoy reading both fiction and non-fiction.
 
 ---
 Feel free to explore my repositories, and let’s connect if you have a project or opportunity in mind!
