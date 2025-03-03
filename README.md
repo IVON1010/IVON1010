@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a dedicated **Software Engineer** with a focus on **backend development** using **Python** and **Flask**, complemented by frontend skills in **React** and **JavaScript**. I enjoy building efficient, scalable, and user-centered applications, and I am passionate about continuous learning and meaningful collaborations.
 
 
-- 🌱 **I’m currently building projects** in **React** and **Flask** also dynamic applications that merge Python and React for seamless user experiences and efficient backends.
+- 🌱 **I’m currently building projects** in **Django** and **Flask** also dynamic applications that merge Python and React for seamless user experiences and efficient backends.
 - 🌱 **Currently Learning**: Advanced and Medium data structures and algorithms to enhance problem-solving skills and build robust systems.
 - 👯 **I’m looking to collaborate on**: Open-source Python and React projects, particularly those involving backend, API development, and user-centered frontend solutions.
 - 🤔 **I’m looking for help with**: Implementing advanced testing practices in my Flask projects and creating production-ready APIs.
