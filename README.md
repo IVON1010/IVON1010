@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Yvonne Ndungu
 
-Welcome to my GitHub profile! I'm a dedicated **Software Engineer** with a focus on **backend development** using **Python**, **Django** and **Flask**, complemented by frontend skills in **React** and **JavaScript**. I enjoy building efficient, scalable, and user-centered applications, and I am passionate about continuous learning and meaningful collaborations.
+Welcome to my GitHub profile! I'm a dedicated **Software Engineer** with a focus on **backend development** using **Python**: **Django** and **Flask**, complemented by frontend skills in **React** and **JavaScript**. I enjoy building efficient, scalable, and user-centered applications, and I am passionate about continuous learning and meaningful collaborations.
 
 
 - 🌱 **I’m currently building projects** in **Django** and **Flask** also dynamic applications that merge Python and React for seamless user experiences and efficient backends.
