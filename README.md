@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a dedicated **Software Engineer** with a focus
 - 🌱 **Currently Learning**: Advanced and Medium data structures and algorithms to enhance problem-solving skills and build robust systems.
 - 👯 **I’m looking to collaborate on**: Open-source Python and React projects, particularly those involving backend, API development, and user-centered frontend solutions.
 - 🤔 **I’m looking for help with**: Implementing advanced testing practices in my Flask projects and creating production-ready APIs.
-- 💬 **Ask me about**: Backend development with Python, Flask,React, or my journey from business accounting to software engineering!
+- 💬 **Ask me about**: Backend development with Python,Django,Flask and frontend development with javascript and react, or my journey from business accounting to software engineering!
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/YvonneNdungu)
 - 😄 **Pronouns**: She/Her
 - ⚡ **Fun fact**: I balance my coding hours with morning runs and enjoy reading both fiction and non-fiction.
