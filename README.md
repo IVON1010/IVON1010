@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivon1010" alt="ivon1010" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs/Expressjs, DSA**
+- 🌱 I’m currently learning **Nodejs/Expressjs,Typescript, DSA**
 
 - 💬 Ask me about **react native,python, django,django rest-framework,REST APIs, flask, fastapi, javascript**
 
