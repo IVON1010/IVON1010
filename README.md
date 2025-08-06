@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yvonne Ndungu</h1>
 <h3 align="center">A passionate software developer, a bug-squashing, API-taming, coffee-powered developer on a mission to code solutions that actually matter. Software Developer with an entrepreneurial mindset, turning real-world problems into solutions.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivon1010" alt="ivon1010" /></a> </p>
-
 - 🌱 I’m currently learning **Nodejs/Expressjs,Typescript, DSA**
 
 - 💬 Ask me about **react native,python, django,django rest-framework,REST APIs, flask, fastapi, javascript**
