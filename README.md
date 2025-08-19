@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yvonne Ndungu</h1>
 <h3 align="center">A passionate software developer, a bug-squashing, API-taming, coffee-powered developer on a mission to code solutions that actually matter. Software Developer with an entrepreneurial mindset, turning real-world problems into solutions.</h3>
 
-- 🌱 I’m currently learning **Nodejs/Expressjs,Typescript, DSA**
+- 🌱 I’m currently learning **Nodejs/Expressjs,Typescript, MongogDB**
 
 - 💬 Ask me about **react native,python, django,django rest-framework,REST APIs, flask, fastapi, javascript**
 
